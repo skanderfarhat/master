@@ -79,7 +79,7 @@ function gameend(Application $app){
   }
   return $check;
  };
-
+ 
 //Recupere les plateau dans la BD, et l'envoie sous forme de tableau à l'application JS
 function sendtab(Application $app){
  
